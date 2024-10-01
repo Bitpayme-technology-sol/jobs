@@ -1,113 +1,113 @@
 [
-    {
-        "jobId": "1",
-        "title": "SEO Intern",
-        "type": "Full-Time",
-        "Experience": "0-1 Yrs",
-        "location": "Remote",
-        "date": "1-10-2024",
-        "salary": "not mentioned",
-        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-        "role_overview": "We're seeking an SEO Intern who will assist in optimizing our web presence, improving search rankings, and increasing organic traffic. You'll work closely with our marketing team to implement SEO best practices.",
-        "skills": [
-            "SEO: Basic understanding of search engine optimization techniques.",
-            "Keyword Research: Familiarity with keyword research tools like Google Keyword Planner or SEMRush.",
-            "On-page Optimization: Knowledge of optimizing web pages for search engines.",
-            "Content Strategy: Understanding of how content impacts SEO.",
-            "Data Analysis: Basic experience with Google Analytics and other web metrics tools."
-        ],
-        "bonus_skills": [
-            "Experience with SEO tools (Moz, Ahrefs).",
-            "Basic knowledge of HTML/CSS and website structure."
-        ],
-        "perks": [
-            "Mentorship from experienced marketers",
-            "Opportunity to work on live projects",
-            "Remote work and flexible hours"
-        ]
-    },
-    {
-        "jobId": "2",
-        "title": "Business Analyst Intern",
-        "type": "Full-Time",
-        "Experience": "0-1 Yrs",
-        "location": "Remote",
-        "date": "1-10-2024",
-        "salary": "not mentioned",
-        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-        "role_overview": "We are looking for a Business Analyst Intern to assist in analyzing data, market trends, and business operations to help drive organizational success.",
-        "skills": [
-            "Data Analysis: Basic understanding of data analysis tools like Excel or Power BI.",
-            "Market Research: Ability to conduct thorough research and gather insights.",
-            "Problem Solving: Strong analytical and critical thinking skills.",
-            "Communication: Good verbal and written communication skills.",
-            "Report Creation: Ability to present data and findings clearly and concisely."
-        ],
-        "bonus_skills": [
-            "Experience with project management tools (Jira, Trello).",
-            "Understanding of fintech or blockchain-related business operations."
-        ],
-        "perks": [
-            "Hands-on experience in fintech",
-            "Career growth opportunities",
-            "Remote work and flexible hours"
-        ]
-    },
-    {
-        "jobId": "3",
-        "title": "Cloud Operations Engineer (AWS) Intern",
-        "type": "Full-Time",
-        "Experience": "0-1 Yrs",
-        "location": "Remote",
-        "date": "1-10-2024",
-        "salary": "not mentioned",
-        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-        "role_overview": "We're looking for a Cloud Operations Engineer Intern to assist in maintaining and optimizing cloud infrastructure. You’ll work closely with the operations team to ensure smooth cloud operations using AWS services.",
-        "skills": [
-            "AWS: Basic knowledge of Amazon Web Services (EC2, S3, Lambda).",
-            "Scripting: Basic proficiency in Bash, Python, or similar scripting languages.",
-            "Cloud Monitoring: Familiarity with cloud monitoring and alerting tools.",
-            "Automation: Understanding of basic automation and DevOps tools.",
-            "Version Control: Experience with Git for version control."
-        ],
-        "bonus_skills": [
-            "Familiarity with Docker and containerization.",
-            "Understanding of CI/CD pipelines."
-        ],
-        "perks": [
-            "Mentorship in cloud technologies",
-            "Real-world cloud experience in fintech",
-            "Remote work and flexible hours"
-        ]
-    },
-    {
-        "jobId": "4",
-        "title": "Legal Intern",
-        "type": "Full-Time",
-        "Experience": "0-1 Yrs",
-        "location": "Remote",
-        "date": "1-10-2024",
-        "salary": "not mentioned",
-        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-        "role_overview": "As a Legal Intern, you'll support the legal team by conducting research, drafting contracts, and ensuring compliance with fintech regulations.",
-        "skills": [
-            "Legal Research: Basic understanding of Indian legal frameworks and regulations.",
-            "Contract Drafting: Ability to assist in drafting and reviewing legal documents.",
-            "Compliance: Basic knowledge of corporate compliance practices.",
-            "Communication: Strong legal writing and communication skills.",
-            "Ethics: High standards of legal ethics and integrity."
-        ],
-        "bonus_skills": [
-            "Interest in fintech or blockchain legal issues.",
-            "Familiarity with Indian financial laws and regulations."
-        ],
-        "perks": [
-            "Mentorship from experienced legal professionals",
-            "Opportunity to work in the fintech industry",
-            "Remote work and flexible hours"
-        ]
-    },
-    {
+  {
+    "jobId": "1",
+    "title": "SEO Intern",
+    "type": "Full-Time",
+    "Experience": "0-1 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "We're seeking an SEO Intern who will assist in optimizing our web presence, improving search rankings, and increasing organic traffic. You'll work closely with our marketing team to implement SEO best practices.",
+    "skills": [
+      "SEO: Basic understanding of search engine optimization techniques.",
+      "Keyword Research: Familiarity with keyword research tools like Google Keyword Planner or SEMRush.",
+      "On-page Optimization: Knowledge of optimizing web pages for search engines.",
+      "Content Strategy: Understanding of how content impacts SEO.",
+      "Data Analysis: Basic experience with Google Analytics and other web metrics tools."
+    ],
+    "bonus_skills": [
+      "Experience with SEO tools (Moz, Ahrefs).",
+      "Basic knowledge of HTML/CSS and website structure."
+    ],
+    "perks": [
+      "Mentorship from experienced marketers",
+      "Opportunity to work on live projects",
+      "Remote work and flexible hours"
+    ]
+  },
+  {
+    "jobId": "2",
+    "title": "Business Analyst Intern",
+    "type": "Full-Time",
+    "Experience": "0-1 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "We are looking for a Business Analyst Intern to assist in analyzing data, market trends, and business operations to help drive organizational success.",
+    "skills": [
+      "Data Analysis: Basic understanding of data analysis tools like Excel or Power BI.",
+      "Market Research: Ability to conduct thorough research and gather insights.",
+      "Problem Solving: Strong analytical and critical thinking skills.",
+      "Communication: Good verbal and written communication skills.",
+      "Report Creation: Ability to present data and findings clearly and concisely."
+    ],
+    "bonus_skills": [
+      "Experience with project management tools (Jira, Trello).",
+      "Understanding of fintech or blockchain-related business operations."
+    ],
+    "perks": [
+      "Hands-on experience in fintech",
+      "Career growth opportunities",
+      "Remote work and flexible hours"
+    ]
+  },
+  {
+    "jobId": "3",
+    "title": "Cloud Operations Engineer (AWS) Intern",
+    "type": "Full-Time",
+    "Experience": "0-1 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "We're looking for a Cloud Operations Engineer Intern to assist in maintaining and optimizing cloud infrastructure. You’ll work closely with the operations team to ensure smooth cloud operations using AWS services.",
+    "skills": [
+      "AWS: Basic knowledge of Amazon Web Services (EC2, S3, Lambda).",
+      "Scripting: Basic proficiency in Bash, Python, or similar scripting languages.",
+      "Cloud Monitoring: Familiarity with cloud monitoring and alerting tools.",
+      "Automation: Understanding of basic automation and DevOps tools.",
+      "Version Control: Experience with Git for version control."
+    ],
+    "bonus_skills": [
+      "Familiarity with Docker and containerization.",
+      "Understanding of CI/CD pipelines."
+    ],
+    "perks": [
+      "Mentorship in cloud technologies",
+      "Real-world cloud experience in fintech",
+      "Remote work and flexible hours"
+    ]
+  },
+  {
+    "jobId": "4",
+    "title": "Legal Intern",
+    "type": "Full-Time",
+    "Experience": "0-1 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "As a Legal Intern, you'll support the legal team by conducting research, drafting contracts, and ensuring compliance with fintech regulations.",
+    "skills": [
+      "Legal Research: Basic understanding of Indian legal frameworks and regulations.",
+      "Contract Drafting: Ability to assist in drafting and reviewing legal documents.",
+      "Compliance: Basic knowledge of corporate compliance practices.",
+      "Communication: Strong legal writing and communication skills.",
+      "Ethics: High standards of legal ethics and integrity."
+    ],
+    "bonus_skills": [
+      "Interest in fintech or blockchain legal issues.",
+      "Familiarity with Indian financial laws and regulations."
+    ],
+    "perks": [
+      "Mentorship from experienced legal professionals",
+      "Opportunity to work in the fintech industry",
+      "Remote work and flexible hours"
+    ]
+  },
+  {
     "jobId": "5",
     "title": "Security Engineer Intern",
     "type": "Full-Time",
@@ -118,23 +118,23 @@
     "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
     "role_overview": "As a Security Engineer Intern, you'll assist in securing our systems and applications by identifying vulnerabilities, implementing defenses, and ensuring the overall security of our fintech platform.",
     "skills": [
-        "Cybersecurity Fundamentals: Basic understanding of information security principles.",
-        "Vulnerability Assessment: Ability to identify and assess system vulnerabilities.",
-        "Threat Analysis: Understanding of security threats and mitigation strategies.",
-        "Penetration Testing: Basic knowledge of conducting penetration tests on systems and applications.",
-        "Ethics: High standards of ethical conduct in security practices."
+      "Cybersecurity Fundamentals: Basic understanding of information security principles.",
+      "Vulnerability Assessment: Ability to identify and assess system vulnerabilities.",
+      "Threat Analysis: Understanding of security threats and mitigation strategies.",
+      "Penetration Testing: Basic knowledge of conducting penetration tests on systems and applications.",
+      "Ethics: High standards of ethical conduct in security practices."
     ],
     "bonus_skills": [
-        "Interest in blockchain and fintech security.",
-        "Familiarity with security tools and frameworks (e.g., OWASP, NIST)."
+      "Interest in blockchain and fintech security.",
+      "Familiarity with security tools and frameworks (e.g., OWASP, NIST)."
     ],
     "perks": [
-        "Mentorship from experienced security professionals",
-        "Opportunity to work in the cutting-edge fintech security space",
-        "Remote work and flexible hours"
+      "Mentorship from experienced security professionals",
+      "Opportunity to work in the cutting-edge fintech security space",
+      "Remote work and flexible hours"
     ]
-},
-    {
+  },
+  {
     "jobId": "6",
     "title": "QA Testing Intern",
     "type": "Full-Time",
@@ -145,20 +145,20 @@
     "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
     "role_overview": "As a QA Testing Intern, you'll support the quality assurance team by testing our fintech applications, identifying bugs, and ensuring product reliability.",
     "skills": [
-        "Testing Fundamentals: Basic understanding of software testing principles.",
-        "Bug Reporting: Ability to document and report software bugs effectively.",
-        "Manual Testing: Knowledge of manual testing methodologies and tools.",
-        "Automation Testing: Basic knowledge of automation testing tools (e.g., Selenium).",
-        "Attention to Detail: Strong attention to detail in identifying issues."
+      "Testing Fundamentals: Basic understanding of software testing principles.",
+      "Bug Reporting: Ability to document and report software bugs effectively.",
+      "Manual Testing: Knowledge of manual testing methodologies and tools.",
+      "Automation Testing: Basic knowledge of automation testing tools (e.g., Selenium).",
+      "Attention to Detail: Strong attention to detail in identifying issues."
     ],
     "bonus_skills": [
-        "Interest in testing fintech or blockchain-based applications.",
-        "Familiarity with testing frameworks and tools (e.g., JIRA, TestRail)."
+      "Interest in testing fintech or blockchain-based applications.",
+      "Familiarity with testing frameworks and tools (e.g., JIRA, TestRail)."
     ],
     "perks": [
-        "Mentorship from experienced QA professionals",
-        "Opportunity to work in the fintech industry",
-        "Remote work and flexible hours"
+      "Mentorship from experienced QA professionals",
+      "Opportunity to work in the fintech industry",
+      "Remote work and flexible hours"
     ]
-}
+  }
 ]
