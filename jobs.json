@@ -1,0 +1,183 @@
+[
+    {
+    	"jobId": "1",
+        "title": "Backend Developer Intern",
+        "type": "Full-Time",
+        "Experience": "2 Yrs",
+        "location": "Remote",
+        "date": "21-9-2024",
+        "salary": "not mentioned",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+        "role_overview": "We're seeking a Backend Developer Intern skilled in Go, Node.js, JavaScript, and REST API integration. You'll help build scalable backend services, integrate APIs, and contribute to our innovative payment systems..",
+        "skills": [
+            "Go & Node.js: Build microservices and server-side apps.",
+            "JavaScript: Strong grasp of ES6+ and async programming.",
+            "REST API: Design and integrate APIs with a focus on scalability and security.",
+            "Database Knowledge: Basic understanding of SQL/NoSQL.",
+            "Version Control: Familiar with Git."
+        ],
+        "bonus_skills": [
+            "Understanding of blockchain technology.",
+            "Experience with cloud platforms (AWS, GCP) and containerization (Docker, Kubernetes).",
+            "Knowledge of blockchain concepts and how they relate to payments.",
+            "Familiarity with CI/CD pipelines and automated testing."
+
+            ],
+        "perks": [
+            "Mentorship from experienced developers",
+            "Real-world experience in fintech",
+            "Flexible working hours and remote work opportunities.",
+            "Remote work"
+        ]
+    },
+    {
+    	"jobId": "2",
+        "title": "Animator",
+        "type": "Full-Time",
+        "Experience": "2 Yrs",
+        "location": "Remote",
+        "date": "21-9-2024",
+        "salary": "not mentioned",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities..",
+        "role_overview": "As an Animator, you'll collaborate with our creative team to develop animations that engage and inspire our audience.",
+        "skills": [
+            "Animation Software: Proficient in tools like Adobe Animate, Toon Boom Harmony, or Autodesk Maya.",
+            "Animation Principles: Strong understanding of timing, weight, and movement.",
+            "2D/3D Animation: Experience in character animation and lip-syncing.",
+            "Storyboarding: Ability to create storyboards and animatics to plan sequences.",
+            "Team Collaboration: Excellent teamwork and communication skills."
+
+        ],
+        "bonus_skills": [
+            "Knowledge of the latest animation trends and techniques.",
+            "Strong storytelling and communication skills."
+        ],
+        "perks": [
+            "Work on exciting projects",
+            "Remote work",
+            "Collaborative team environment"
+        ]
+    },
+    {
+    	"jobId": "3",
+        "title": "Automation Operative",
+        "type": "Full-Time",
+        "Experience": "2 Yrs",
+        "location": "Remote",
+        "date": "21-9-2024",
+        "salary": "not mentioned",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+        "role_overview": "As an Automation Operative, you'll be responsible for creating and managing automation scripts to optimize our blockchain operations. You'll work closely with our development and operations teams to streamline workflows and ensure efficiency in a fast-paced environment.",
+        "skills": [
+            "Scripting Languages: Proficiency in Python, Bash, or similar.",
+            "Linux OS: Hands-on experience with Kali Linux.",
+            "Automation Tools: Experience with tools like Selenium, Ansible, etc.",
+            "CI/CD: Understanding of continuous integration and deployment practices.",
+            "Version Control: Familiar with Git and related workflows.",
+            "Problem Solving: Strong analytical skills and attention to detail.",
+            "Team Collaboration: Ability to work well in a team environment."
+
+        ],
+        "bonus_skills": [
+            "Experience in blockchain environments.",
+            "certifications in automation"
+        ],
+        "perks": [
+            "Work on innovative blockchain projects",
+            "Remote work",
+            "Career growth opportunities"
+        ]
+    },
+    {
+    	"jobId": "4",
+        "title": "Deployment Operative",
+        "type": "Full-Time",
+        "Experience": "2 Yrs",
+        "location": "Remote",
+        "date": "21-9-2024",
+        "salary": "not mentioned",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+        "role_overview": "In this role, you'll ensure smooth deployment of blockchain updates, automate deployment processes, and troubleshoot issues in our blockchain environment.",
+        "skills": [
+            "Deployment Tools: Experience with Jenkins, Docker, or Kubernetes.",
+            "Cloud Platforms: Familiarity with AWS, Azure, or Google Cloud.",
+            "Scripting Languages: Basic knowledge of Bash, Python, Node.js, or Golang.",
+            "Version Control: Experience with Git.",
+            "Networking & System Admin: Basic understanding of networking and system administration.",
+            "Problem-Solving: Strong troubleshooting and attention to detail.",
+            "Team Collaboration: Ability to work well in a collaborative team setting."
+
+        ],
+        "bonus_skills": [
+            "Experience with blockchain deployment tools.",
+            "certifications in deployment"
+        ],
+        "perks": [
+            "Innovative blockchain projects",
+            "Remote work",
+            "Collaborative environment"
+        ]
+    },
+    {
+    	"jobId": "5",
+        "title": "Legal & Compliance Professional",
+        "type": "Full-Time",
+        "Experience": "2 Yrs",
+        "location": "Remote",
+        "salary": "not mentioned",
+        "date": "21-9-2024",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+        "role_overview": "As a Legal & Compliance Professional, you will provide legal counsel, manage compliance activities, and oversee corporate governance practices. You'll also manage risk and ensure adherence to Indian laws and regulations, playing a crucial role in maintaining ethical standards within the organization.",
+        "skills": [
+            "Corporate Law: Strong understanding of Indian corporate laws and regulations.",
+            "Compliance Management: Experience with developing compliance programs and risk management strategies.",
+            "Contract Management: Proficiency in handling contract reviews and legal disputes.",
+            "Industry Standards: Familiarity with CIS benchmarks, PCIDSS, and NIST frameworks.",
+            "Ethical Judgment: High standards of integrity and legal ethics.",
+            "Virtual Compliance Tools: Knowledge of compliance management tools."
+
+        ],
+        "bonus_skills": [
+            "Experience with fintech legal requirements.",
+            "Industry-specific legal experience in fintech or blockchain."
+
+        ],
+        "perks": [
+            "Work in a fast-paced fintech environment",
+            "Remote work",
+            "Opportunities for career growth"
+        ]
+    },
+    {
+    	"jobId": "6",
+        "title": "Research & Development Specialist",
+        "type": "Full-Time",
+        "Experience": "2 Yrs",
+        "location": "Remote",
+        "date": "21-9-2024",
+        "salary": "not mentioned",
+        "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+        "role_overview": "As a Research & Development Specialist, you'll be responsible for developing new products, enhancing existing solutions, and conducting in-depth research to identify market trends. You’ll collaborate with cross-functional teams to ensure alignment with organizational goals and compliance with intellectual property laws.",
+        "skills": [
+            "Programming Proficiency: Expertise in C++, Python, JavaScript, Solidity, Golang, Node.js.",
+            "Blockchain Knowledge: In-depth understanding of blockchain concepts, smart contract development, and cryptographic mechanisms.",
+            "Cloud Expertise: Hands-on experience with AWS Cloud, Lambda, and Amazon Cognito.",
+            "Problem-Solving & Analysis: Strong analytical and problem-solving skills, with a focus on data analysis and trend identification.",
+            "Project Management: Strong project management intellect, understanding of SDLC.",
+            "Experimental Design: Prior experience in experimental design and critical thinking.",
+            "Compliance: Knowledge of intellectual property laws and regulations."
+
+        ],
+        "bonus_skills": [
+            "Experience with decentralized applications.",
+            "Experience with decentralized application (dApp) development and integration."
+        ],
+        "perks": [
+            "Lead innovative projects",
+            "Remote work",
+            "Collaborative team"
+        ]
+    }
+    
+]
+
