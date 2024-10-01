@@ -106,5 +106,59 @@
             "Opportunity to work in the fintech industry",
             "Remote work and flexible hours"
         ]
-    }
+    },
+    {
+    "jobId": "5",
+    "title": "Security Engineer Intern",
+    "type": "Full-Time",
+    "Experience": "0-1 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "As a Security Engineer Intern, you'll assist in securing our systems and applications by identifying vulnerabilities, implementing defenses, and ensuring the overall security of our fintech platform.",
+    "skills": [
+        "Cybersecurity Fundamentals: Basic understanding of information security principles.",
+        "Vulnerability Assessment: Ability to identify and assess system vulnerabilities.",
+        "Threat Analysis: Understanding of security threats and mitigation strategies.",
+        "Penetration Testing: Basic knowledge of conducting penetration tests on systems and applications.",
+        "Ethics: High standards of ethical conduct in security practices."
+    ],
+    "bonus_skills": [
+        "Interest in blockchain and fintech security.",
+        "Familiarity with security tools and frameworks (e.g., OWASP, NIST)."
+    ],
+    "perks": [
+        "Mentorship from experienced security professionals",
+        "Opportunity to work in the cutting-edge fintech security space",
+        "Remote work and flexible hours"
+    ]
+},
+    {
+    "jobId": "6",
+    "title": "QA Testing Intern",
+    "type": "Full-Time",
+    "Experience": "0-1 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "As a QA Testing Intern, you'll support the quality assurance team by testing our fintech applications, identifying bugs, and ensuring product reliability.",
+    "skills": [
+        "Testing Fundamentals: Basic understanding of software testing principles.",
+        "Bug Reporting: Ability to document and report software bugs effectively.",
+        "Manual Testing: Knowledge of manual testing methodologies and tools.",
+        "Automation Testing: Basic knowledge of automation testing tools (e.g., Selenium).",
+        "Attention to Detail: Strong attention to detail in identifying issues."
+    ],
+    "bonus_skills": [
+        "Interest in testing fintech or blockchain-based applications.",
+        "Familiarity with testing frameworks and tools (e.g., JIRA, TestRail)."
+    ],
+    "perks": [
+        "Mentorship from experienced QA professionals",
+        "Opportunity to work in the fintech industry",
+        "Remote work and flexible hours"
+    ]
+}
 ]
