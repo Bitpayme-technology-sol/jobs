@@ -160,5 +160,85 @@
       "Opportunity to work in the fintech industry",
       "Remote work and flexible hours"
     ]
+  },
+    {
+    "jobId": "2",
+    "title": "Marketing Officer",
+    "type": "Full-Time",
+    "experience": "2-3 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "We're seeking a Marketing Officer who will develop and execute marketing strategies to promote PayME’s blockchain payment solutions. You will lead campaigns, drive brand awareness, and collaborate with cross-functional teams to achieve business objectives.",
+    "skills": [
+      "Marketing Strategy: Ability to create and execute comprehensive marketing strategies.",
+      "Campaign Management: Experience managing marketing campaigns across various channels (social media, email, etc.).",
+      "Branding: Strong understanding of brand positioning and messaging.",
+      "Data Analysis: Proficiency with marketing analytics tools to track performance.",
+      "Digital Marketing: Knowledge of SEO, SEM, PPC, and social media marketing."
+    ],
+    "bonus_skills": [
+      "Experience with paid ad campaigns (Google Ads, Facebook Ads).",
+      "Familiarity with CRM software (HubSpot, Salesforce)."
+    ],
+    "perks": [
+      "Mentorship from experienced marketers",
+      "Opportunity to work on high-impact projects",
+      "Remote work and flexible hours"
+    ]
+  },
+  {
+    "jobId": "3",
+    "title": "PR and Outreach Intern",
+    "type": "Full-Time",
+    "experience": "0-1 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "We're looking for a PR and Outreach Intern who will assist in building relationships with media outlets, influencers, and potential partners. You’ll help create press releases, manage outreach campaigns, and support our brand’s communication efforts.",
+    "skills": [
+      "Communication: Excellent written and verbal communication skills.",
+      "Media Relations: Basic understanding of working with media and influencers.",
+      "Campaign Support: Ability to assist in organizing outreach campaigns.",
+      "Social Media: Knowledge of social media platforms and their role in PR.",
+      "Research: Ability to conduct outreach research to identify relevant partners."
+    ],
+    "bonus_skills": [
+      "Experience with PR tools (Cision, PRWeb).",
+      "Familiarity with press release creation."
+    ],
+    "perks": [
+      "Mentorship from PR professionals",
+      "Opportunity to work on live outreach campaigns",
+      "Remote work and flexible hours"
+    ]
+  },
+  {
+    "jobId": "4",
+    "title": "General Applications",
+    "type": "Full-Time/Part-Time",
+    "experience": "0-3 Yrs",
+    "location": "Remote",
+    "date": "1-10-2024",
+    "salary": "not mentioned",
+    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "role_overview": "We're always open to receiving applications from talented individuals who share our vision and passion for blockchain technology. Whether you’re interested in marketing, development, design, or operations, we invite you to apply.",
+    "skills": [
+      "Relevant Skills: Based on the role you’re applying for (e.g., marketing, development, design, etc.).",
+      "Collaboration: Ability to work well with cross-functional teams.",
+      "Adaptability: Willingness to learn and adapt in a fast-paced environment.",
+      "Communication: Strong communication skills for both internal and external interactions."
+    ],
+    "bonus_skills": [
+      "Experience in fintech or blockchain-related fields.",
+      "Familiarity with PayME’s mission and services."
+    ],
+    "perks": [
+      "Mentorship from experienced professionals",
+      "Opportunity to work on exciting, impactful projects",
+      "Remote work and flexible hours"
+    ]
   }
 ]
