@@ -3,78 +3,73 @@
     "jobId": "1",
     "title": "SEO Intern",
     "type": "Full-Time",
-    "Experience": "0-1 Yrs",
+    "experience": "0-1 Year",
     "location": "Remote",
-    "date": "1-12-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "We're seeking an SEO Intern who will assist in optimizing our web presence, improving search rankings, and increasing organic traffic. You'll work closely with our marketing team to implement SEO best practices.",
+    "datePosted": "1-12-2024",
+    "salary": "Not Mentioned",
+    "aboutUs": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through blockchain technology. We aim to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
+    "roleOverview": "We’re seeking an SEO Intern to assist in optimizing our web presence, improving search rankings, and increasing organic traffic. You’ll work closely with our marketing team to implement SEO best practices.",
     "skills": [
-      "SEO: Basic understanding of search engine optimization techniques.",
-      "Keyword Research: Familiarity with keyword research tools like Google Keyword Planner or SEMRush.",
-      "On-page Optimization: Knowledge of optimizing web pages for search engines.",
-      "Content Strategy: Understanding of how content impacts SEO.",
-      "Data Analysis: Basic experience with Google Analytics and other web metrics tools."
+      "Basic understanding of search engine optimization (SEO) techniques.",
+      "Familiarity with keyword research tools like Google Keyword Planner or SEMRush.",
+      "Knowledge of on-page optimization.",
+      "Understanding of content strategy and its impact on SEO.",
+      "Basic experience with Google Analytics and other web metrics tools."
     ],
-    "bonus_skills": [
-      "Experience with SEO tools (Moz, Ahrefs).",
+    "bonusSkills": [
+      "Experience with SEO tools (e.g., Moz, Ahrefs).",
       "Basic knowledge of HTML/CSS and website structure."
     ],
     "perks": [
-      "Mentorship from experienced marketers",
-      "Opportunity to work on live projects",
-      "Remote work and flexible hours"
+      "Mentorship from experienced marketers.",
+      "Opportunity to work on live projects.",
+      "Remote work with flexible hours."
     ]
   },
-    {
+  {
     "jobId": "2",
-    "title": "Aws Interns",
+    "title": "AWS Intern",
     "type": "Full-Time",
-    "Experience": "0-1 Yrs",
+    "experience": "0-1 Year",
     "location": "Remote",
-    "date": "1-12-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "Managing our aws resoureces so that our clients can get seemless user experiences everytime",
+    "datePosted": "1-12-2024",
+    "salary": "Not Mentioned",
+    "aboutUs": "At PayME, we are committed to delivering secure and decentralized payment solutions through blockchain technology, empowering businesses and individuals with seamless financial control.",
+    "roleOverview": "Managing AWS resources to ensure our clients experience seamless user interactions.",
     "skills": [
-      "EC2 Compute",
-      "Loadbalances and Autoscaling",
-      "Dynomo DB, RDBS, SNS",
-      "IAM Policy",
-      "S3 bukents, Route53"
+      "Knowledge of EC2 Compute.",
+      "Familiarity with Load Balancers and Auto Scaling.",
+      "Experience with DynamoDB, RDBMS, and SNS.",
+      "Understanding of IAM policies.",
+      "Experience with S3 buckets and Route 53."
     ],
-    "bonus_skills": [
-      "-"
-    ],
+    "bonusSkills": [],
     "perks": [
-      "Mentorship from experienced marketers",
-      "Opportunity to work on live projects",
-      "Remote work and flexible hours"
+      "Mentorship from experienced professionals.",
+      "Opportunity to work on live projects.",
+      "Remote work with flexible hours."
     ]
   },
   {
     "jobId": "3",
-    "title": "Jr Developer",
+    "title": "Junior Developer",
     "type": "Full-Time",
-    "Experience": "0-1 Yrs",
+    "experience": "0-1 Year",
     "location": "Remote",
-    "date": "1-12-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "A junior backend developer who can develop and enhanced our developed soultions",
+    "datePosted": "1-12-2024",
+    "salary": "Not Mentioned",
+    "aboutUs": "At PayME, we strive to redefine the financial landscape by leveraging blockchain technology to create secure and transparent payment systems.",
+    "roleOverview": "We’re looking for a Junior Backend Developer to develop and enhance our existing solutions.",
     "skills": [
-      "Nodejs, Js framework",
-      "RestAPI",
-      "Session managements",
+      "Proficiency in Node.js and JavaScript frameworks.",
+      "Experience with REST APIs.",
+      "Understanding of session management."
     ],
-    "bonus_skills": [
-      "-"
-    ],
+    "bonusSkills": [],
     "perks": [
-      "Mentorship from experienced marketers",
-      "Opportunity to work on live projects",
-      "Remote work and flexible hours"
+      "Mentorship from experienced marketers.",
+      "Opportunity to work on live projects.",
+      "Remote work with flexible hours."
     ]
-  },
-  
+  }
 ]
