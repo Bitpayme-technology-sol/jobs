@@ -1,6 +1,6 @@
 [
   {
-    "jobId": "JID-001-3299",
+    "jobId": "1",
     "title": "SEO Intern",
     "type": "Full-Time",
     "Experience": "0-1 Yrs",
@@ -27,7 +27,7 @@
     ]
   },
     {
-    "jobId": "JID-02231-2033",
+    "jobId": "2",
     "title": "Aws Interns",
     "type": "Full-Time",
     "Experience": "0-1 Yrs",
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "jobId": "JID-02231-2033",
+    "jobId": "3",
     "title": "Jr Developer",
     "type": "Full-Time",
     "Experience": "0-1 Yrs",
