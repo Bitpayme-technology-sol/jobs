@@ -1,11 +1,11 @@
 [
   {
-    "jobId": "1",
+    "jobId": "JID-001-3299",
     "title": "SEO Intern",
     "type": "Full-Time",
     "Experience": "0-1 Yrs",
     "location": "Remote",
-    "date": "1-10-2024",
+    "date": "1-12-2024",
     "salary": "not mentioned",
     "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
     "role_overview": "We're seeking an SEO Intern who will assist in optimizing our web presence, improving search rankings, and increasing organic traffic. You'll work closely with our marketing team to implement SEO best practices.",
@@ -26,225 +26,55 @@
       "Remote work and flexible hours"
     ]
   },
-  {
-    "jobId": "2",
-    "title": "Business Analyst Intern",
-    "type": "Full-Time",
-    "Experience": "0-1 Yrs",
-    "location": "Remote",
-    "date": "1-10-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "We are looking for a Business Analyst Intern to assist in analyzing data, market trends, and business operations to help drive organizational success.",
-    "skills": [
-      "Data Analysis: Basic understanding of data analysis tools like Excel or Power BI.",
-      "Market Research: Ability to conduct thorough research and gather insights.",
-      "Problem Solving: Strong analytical and critical thinking skills.",
-      "Communication: Good verbal and written communication skills.",
-      "Report Creation: Ability to present data and findings clearly and concisely."
-    ],
-    "bonus_skills": [
-      "Experience with project management tools (Jira, Trello).",
-      "Understanding of fintech or blockchain-related business operations."
-    ],
-    "perks": [
-      "Hands-on experience in fintech",
-      "Career growth opportunities",
-      "Remote work and flexible hours"
-    ]
-  },
-  {
-    "jobId": "3",
-    "title": "Cloud Operations Engineer (AWS) Intern",
-    "type": "Full-Time",
-    "Experience": "0-1 Yrs",
-    "location": "Remote",
-    "date": "1-10-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "We're looking for a Cloud Operations Engineer Intern to assist in maintaining and optimizing cloud infrastructure. You’ll work closely with the operations team to ensure smooth cloud operations using AWS services.",
-    "skills": [
-      "AWS: Basic knowledge of Amazon Web Services (EC2, S3, Lambda).",
-      "Scripting: Basic proficiency in Bash, Python, or similar scripting languages.",
-      "Cloud Monitoring: Familiarity with cloud monitoring and alerting tools.",
-      "Automation: Understanding of basic automation and DevOps tools.",
-      "Version Control: Experience with Git for version control."
-    ],
-    "bonus_skills": [
-      "Familiarity with Docker and containerization.",
-      "Understanding of CI/CD pipelines."
-    ],
-    "perks": [
-      "Mentorship in cloud technologies",
-      "Real-world cloud experience in fintech",
-      "Remote work and flexible hours"
-    ]
-  },
-  {
-    "jobId": "4",
-    "title": "Legal Intern",
-    "type": "Full-Time",
-    "Experience": "0-1 Yrs",
-    "location": "Remote",
-    "date": "1-10-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "As a Legal Intern, you'll support the legal team by conducting research, drafting contracts, and ensuring compliance with fintech regulations.",
-    "skills": [
-      "Legal Research: Basic understanding of Indian legal frameworks and regulations.",
-      "Contract Drafting: Ability to assist in drafting and reviewing legal documents.",
-      "Compliance: Basic knowledge of corporate compliance practices.",
-      "Communication: Strong legal writing and communication skills.",
-      "Ethics: High standards of legal ethics and integrity."
-    ],
-    "bonus_skills": [
-      "Interest in fintech or blockchain legal issues.",
-      "Familiarity with Indian financial laws and regulations."
-    ],
-    "perks": [
-      "Mentorship from experienced legal professionals",
-      "Opportunity to work in the fintech industry",
-      "Remote work and flexible hours"
-    ]
-  },
-  {
-    "jobId": "5",
-    "title": "Security Engineer Intern",
-    "type": "Full-Time",
-    "Experience": "0-1 Yrs",
-    "location": "Remote",
-    "date": "1-10-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "As a Security Engineer Intern, you'll assist in securing our systems and applications by identifying vulnerabilities, implementing defenses, and ensuring the overall security of our fintech platform.",
-    "skills": [
-      "Cybersecurity Fundamentals: Basic understanding of information security principles.",
-      "Vulnerability Assessment: Ability to identify and assess system vulnerabilities.",
-      "Threat Analysis: Understanding of security threats and mitigation strategies.",
-      "Penetration Testing: Basic knowledge of conducting penetration tests on systems and applications.",
-      "Ethics: High standards of ethical conduct in security practices."
-    ],
-    "bonus_skills": [
-      "Interest in blockchain and fintech security.",
-      "Familiarity with security tools and frameworks (e.g., OWASP, NIST)."
-    ],
-    "perks": [
-      "Mentorship from experienced security professionals",
-      "Opportunity to work in the cutting-edge fintech security space",
-      "Remote work and flexible hours"
-    ]
-  },
-  {
-    "jobId": "6",
-    "title": "QA Testing Intern",
-    "type": "Full-Time",
-    "Experience": "0-1 Yrs",
-    "location": "Remote",
-    "date": "1-10-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "As a QA Testing Intern, you'll support the quality assurance team by testing our fintech applications, identifying bugs, and ensuring product reliability.",
-    "skills": [
-      "Testing Fundamentals: Basic understanding of software testing principles.",
-      "Bug Reporting: Ability to document and report software bugs effectively.",
-      "Manual Testing: Knowledge of manual testing methodologies and tools.",
-      "Automation Testing: Basic knowledge of automation testing tools (e.g., Selenium).",
-      "Attention to Detail: Strong attention to detail in identifying issues."
-    ],
-    "bonus_skills": [
-      "Interest in testing fintech or blockchain-based applications.",
-      "Familiarity with testing frameworks and tools (e.g., JIRA, TestRail)."
-    ],
-    "perks": [
-      "Mentorship from experienced QA professionals",
-      "Opportunity to work in the fintech industry",
-      "Remote work and flexible hours"
-    ]
-  },
     {
-    "jobId": "7",
-    "title": "Marketing Officer",
+    "jobId": "JID-02231-2033",
+    "title": "Aws Interns",
     "type": "Full-Time",
-    "Experience": "2-3 Yrs",
+    "Experience": "0-1 Yrs",
     "location": "Remote",
-    "date": "1-10-2024",
+    "date": "1-12-2024",
     "salary": "not mentioned",
     "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "We're seeking a Marketing Officer who will develop and execute marketing strategies to promote PayME’s blockchain payment solutions. You will lead campaigns, drive brand awareness, and collaborate with cross-functional teams to achieve business objectives.",
+    "role_overview": "Managing our aws resoureces so that our clients can get seemless user experiences everytime",
     "skills": [
-      "Marketing Strategy: Ability to create and execute comprehensive marketing strategies.",
-      "Campaign Management: Experience managing marketing campaigns across various channels (social media, email, etc.).",
-      "Branding: Strong understanding of brand positioning and messaging.",
-      "Data Analysis: Proficiency with marketing analytics tools to track performance.",
-      "Digital Marketing: Knowledge of SEO, SEM, PPC, and social media marketing."
+      "EC2 Compute",
+      "Loadbalances and Autoscaling",
+      "Dynomo DB, RDBS, SNS",
+      "IAM Policy",
+      "S3 bukents, Route53"
     ],
     "bonus_skills": [
-      "Experience with paid ad campaigns (Google Ads, Facebook Ads).",
-      "Familiarity with CRM software (HubSpot, Salesforce)."
+      "-"
     ],
     "perks": [
       "Mentorship from experienced marketers",
-      "Opportunity to work on high-impact projects",
+      "Opportunity to work on live projects",
       "Remote work and flexible hours"
     ]
   },
   {
-    "jobId": "8",
-    "title": "Public Relations Intern",
-    "type": "Internship",
+    "jobId": "JID-02231-2033",
+    "title": "Jr Developer",
+    "type": "Full-Time",
     "Experience": "0-1 Yrs",
     "location": "Remote",
-    "date": "16-10-2024",
+    "date": "1-12-2024",
     "salary": "not mentioned",
     "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "We are looking for an enthusiastic Public Relations Intern to assist in developing and executing PR campaigns, managing media outreach, and shaping our company’s public image. You will also support content creation and help organize key events and product launches.",
+    "role_overview": "A junior backend developer who can develop and enhanced our developed soultions",
     "skills": [
-      "PR Strategy: Assist in developing and executing PR campaigns and strategies.",
-      "Content Creation: Create and manage content for press releases, blogs, social media, and newsletters.",
-      "Video Editing & 3D Animation: Proficiency in video editing and 3D animation.",
-      "Media Relations: Build relationships with media outlets and influencers to increase brand visibility.",
-      "Event Support: Support in organizing events, press conferences, and product launches.",
-      "Media Monitoring: Monitor media coverage and create reports on PR activities and impact.",
-      "Communication: Strong written and verbal communication skills.",
-      "Social Media: Good knowledge of social media algorithms and engagement tactics.",
-      "Creative Thinking: Contribute ideas for improving public perception and engagement.",
-      "Collaboration: Collaborate with the marketing team to develop communication strategies.",
-      "Multitasking: Ability to work in a fast-paced environment."
+      "Nodejs, Js framework",
+      "RestAPI",
+      "Session managements",
     ],
     "bonus_skills": [
-      "Proficiency in video editing and 3D animation.",
-      "Familiarity with media monitoring and reporting."
+      "-"
     ],
     "perks": [
-      "Hands-on experience in the fintech industry.",
-      "Opportunity to work with a dynamic and supportive team.",
-      "Learn from experienced professionals and expand your network."
-    ]
-  },
-  {
-    "jobId": "9",
-    "title": "General Applications",
-    "type": "Full-Time/Part-Time",
-    "Experience": "0-3 Yrs",
-    "location": "Remote",
-    "date": "1-10-2024",
-    "salary": "not mentioned",
-    "about_us": "At PayME, our mission is to transform the financial landscape by delivering secure, transparent, and decentralized payment solutions through the power of blockchain technology. We strive to build a world where every transaction is safe, seamless, and trustworthy—empowering businesses and individuals to take full control of their financial activities.",
-    "role_overview": "We're always open to receiving applications from talented individuals who share our vision and passion for blockchain technology. Whether you’re interested in marketing, development, design, or operations, we invite you to apply.",
-    "skills": [
-      "Relevant Skills: Based on the role you’re applying for (e.g., marketing, development, design, etc.).",
-      "Collaboration: Ability to work well with cross-functional teams.",
-      "Adaptability: Willingness to learn and adapt in a fast-paced environment.",
-      "Communication: Strong communication skills for both internal and external interactions."
-    ],
-    "bonus_skills": [
-      "Experience in fintech or blockchain-related fields.",
-      "Familiarity with PayME’s mission and services."
-    ],
-    "perks": [
-      "Mentorship from experienced professionals",
-      "Opportunity to work on exciting, impactful projects",
+      "Mentorship from experienced marketers",
+      "Opportunity to work on live projects",
       "Remote work and flexible hours"
     ]
-  }
+  },
+  
 ]
