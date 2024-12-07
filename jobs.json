@@ -71,5 +71,47 @@
       "Opportunity to work on live projects.",
       "Remote work with flexible hours."
     ]
-  }
+  },
+  {
+  "jobId": "4",
+  "title": "Backend Developer Intern",
+  "type": "Full-Time",
+  "experience": "0-1 Year",
+  "location": "Remote",
+  "datePosted": "8-12-2024",
+  "salary": "Not Mentioned",
+  "aboutUs": "At PayME Fintech Solutions, we are revolutionizing the fintech industry by delivering secure, transparent, and decentralized payment solutions using blockchain technology. Our mission is to transform financial services and empower businesses and individuals with safe, seamless, and trustworthy transactions.",
+  "roleOverview": "We’re seeking a skilled and motivated Backend Developer Intern to assist in the development and maintenance of our proprietary blockchain technology. You’ll work closely with cross-functional teams to design, implement, and maintain smart contracts and decentralized applications (dApps).",
+  "responsibilities": [
+    "Develop and maintain the company's proprietary blockchain technology.",
+    "Design and implement smart contracts and decentralized applications (dApps) on the blockchain.",
+    "Collaborate with cross-functional teams to analyze requirements and develop blockchain solutions.",
+    "Ensure the security, scalability, and efficiency of the blockchain network.",
+    "Research and evaluate new tools and technologies for blockchain development.",
+    "Troubleshoot and resolve issues related to the company's blockchain technology."
+  ],
+  "skills": [
+    "Proficiency in programming languages such as JavaScript, Node.js, Solidity, C++ and Python",
+    "In-depth understanding of blockchain concepts, protocols, and consensus algorithms.",
+    "Experience with developing and deploying smart contracts on a blockchain platform.",
+    "Knowledge of cryptographic mechanisms and security practices in blockchain.",
+    "Familiarity with decentralized application development and integration.",
+    "Strong problem-solving skills and attention to detail.",
+    "Ability to work collaboratively in a team environment.",
+    "Hands-on experience in AWS virtual cloud, AWS Lambda, and basic SDLC knowledge.",
+    "Experience with Amazon Cognito and Amazon Managed Blockchain."
+  ],
+  "bonus_skills": [
+    "Familiarity with other blockchain platforms or protocols.",
+    "Experience in full-stack development.",
+    "Understanding of data structures and algorithms in blockchain."
+  ],
+  "perks": [
+    "Mentorship from experienced developers and blockchain experts.",
+    "Opportunity to work on cutting-edge blockchain technology.",
+    "Remote work with flexible hours.",
+    "Exposure to decentralized finance (DeFi) and blockchain-based financial applications."
+  ]
+}
+
 ]
